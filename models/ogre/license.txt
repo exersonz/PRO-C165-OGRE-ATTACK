@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ogre Character
+* source:	https://sketchfab.com/3d-models/ogre-character-676c3e1fb1154768b4f99410c38ea00f
+* author:	Snackwacko (https://sketchfab.com/snackwacko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ogre Character" (https://sketchfab.com/3d-models/ogre-character-676c3e1fb1154768b4f99410c38ea00f) by Snackwacko (https://sketchfab.com/snackwacko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
